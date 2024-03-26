@@ -1,0 +1,1 @@
+Before running the program, make sure to replace <your_storage_account_connection_string> with your actual Azure Blob Storage connection string. This program downloads all the PNG files, solves the puzzle, and extracts the number represented by the solved image.
